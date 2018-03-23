@@ -1,0 +1,5 @@
+80
+Matrix;egynapos;16
+Oktato;korlatlan
+Szikla;korlatlan;12
+Nemoktato;ketnapos;0
